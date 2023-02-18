@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Check if the number sored in the variable n is positive, negative or zero. 
+ * main - main block
+ * description: determine if random number is positive, negative or zero. 
  *
- * return: 0 (Success)
+ * return 0
  */
 
 int main(void)
@@ -19,15 +20,15 @@ int main(void)
 	
 	if (n < 0)
 	{
-		printf ("The number is negative\n");
+		printf("%i is negative\n", n);
 	}
 	else if (n > 0) 
 	{
-		printf ("The number is positive\n");
+		printf("%i is positive\n", n);
 	}
 	else 
 	{
-		printf ("The number is zero\n");
+		printf("%i is zero\n", n);
 	}
 	return (0);
 }
