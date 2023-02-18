@@ -4,8 +4,8 @@
 /**
  * main - main block
  * description: determine if random number is positive, negative or zero. 
- *
- * return 0
+(*
+ * Return: 0 (success)
  */
 
 int main(void)
