@@ -5,14 +5,14 @@
  *
  * Return: 0
  */
-int main (void) 
+int main(void)
 {
-	char f = 'a';
+	char c = 'a';
 
-	while (f <= 'z')
+	while (c <= 'z')
 	{
-		putchar(f);
-		f++;
+		putchar(c);
+		c++;
 	}
 	putchar('\n');
 	return (0);
