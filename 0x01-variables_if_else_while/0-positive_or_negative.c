@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * description: determine if random number is positive, negative or zero. 
+ * description: determine if random number is positive, negative or zero.
 (*
  * Return: 0 (success)
  */
