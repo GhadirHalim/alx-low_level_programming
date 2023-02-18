@@ -1,7 +1,6 @@
 #include <stdio.h>
 /*
- * main -main block
- * description: alphabet in lc
+ * main - alphabet in lowercase
  *
  * Return: 0
  */
