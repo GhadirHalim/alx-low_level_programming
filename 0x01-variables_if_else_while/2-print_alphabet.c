@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main - alphabet in lowercase
+ /**
+ * main - Entry point
  *
  * Return: 0
  */
